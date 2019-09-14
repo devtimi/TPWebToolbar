@@ -19,7 +19,7 @@ End Sub
 
 #### Remove a pointer
 
-To remove a pointer to a button, pass the `WebToolbarButton` to `RemovePointer` on the `TPWebToolbar` instance.
+To remove a pointer from a button, pass the `WebToolbarButton` to `RemovePointer` on the `TPWebToolbar` instance.
 ```
 TPWebToolbarInstance.RemovePointer(TPWebToolbarInstance.Button2)
 ```
